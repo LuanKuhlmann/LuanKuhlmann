@@ -1,6 +1,6 @@
 # Hello! i'm Luan Kuhlmann 👋
 
-- 🔭 I’m currently working: for Grape Solutions as a intern with front-end and CompassUol also as intern in back-end.
+- 🔭 I’m currently working: for Grape Solutions as a intern with front-end applications and on CompassUol, also as intern but with back-end applications.
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
